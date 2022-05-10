@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+npm install in the sever folder
 
 Create a .env file in the root of the server folder with the followin variables:
 SERVER_URL=http://localhost:3000
@@ -11,7 +11,7 @@ STRIPE_PRIVATE_KEY=stripe-api-key
 
 ### Run dev server
 ```
-npm run devStart
+npm run devStart in the server folder
 ```
 
 ### Client folder
