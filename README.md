@@ -1,4 +1,4 @@
-# webpilgrim
+# payment-with-stripe-demo
 
 ## Project setup
 ```
