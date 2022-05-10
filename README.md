@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+cd to server folder then npm install
 ```
 
 ### Run dev server
