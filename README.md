@@ -16,7 +16,7 @@ npm run devStart
 
 ### Client folder
 ```
-Access client folder index.html then click the button
+Access client folder index.html with a dev serv (ex: vs code liver server) then click the button
 ```
 
 ### Based on the following video
